@@ -1,0 +1,6 @@
+streamlit
+Flask
+Flask-SQLAlchemy
+Flask-Login
+pandas
+pytest
